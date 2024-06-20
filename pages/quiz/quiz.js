@@ -48,7 +48,7 @@ function montarPergunta() {
         <section class="pergunta">
 
             <div>
-                <p>Questão ${pergunta}</p>
+                <p>Questão ${pergunta} de 10</p>
 
                  <h2>${alterarSinais(quiz.questions[pergunta-1].question)}</h2>
           </div>
