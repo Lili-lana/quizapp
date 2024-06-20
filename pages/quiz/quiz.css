@@ -160,6 +160,7 @@ main {
 .alternativas label:hover {
     & span {
         background: var(--bg-acessibilidade);
+        color: var(--purple);
     }
 }
 
